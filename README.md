@@ -26,7 +26,7 @@ For full documentation, visit [alerti.com/docs](https://alerti.com)
 
 - [Community Forum](https://github.com/alerti/alerti/discussions). Best for: help with building, discussion about database best practices.
 - [GitHub Issues](https://github.com/alerti/alerti/issues). Best for: bugs and errors you encounter using Supabase.
-- [Email Support](https://alerti/docs/support#business-support). Best for: problems with your database or infrastructure.
+- [Email Support](https://alerti.com/docs/support#business-support). Best for: problems with your database or infrastructure.
 
 ## Status
 
