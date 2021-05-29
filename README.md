@@ -1,5 +1,5 @@
 <p align="center">
-<img width="300" src="https://avatars.githubusercontent.com/u/85001418?s=200&v=4"/>
+<img width="300" height"300" src="https://avatars.githubusercontent.com/u/85001418?s=200&v=4"/>Alerti
 </p>
 
 ---
@@ -14,9 +14,9 @@
 - [x] News
 - [x] CMS
 - [x] Data Integration/Extraction  (Web, News, Social, Apps, Business)
-- [ ] Analytics
-- [ ] Intelliigence  (Web, News, Social, Apps, Business)
-- [ ] Apps
+- [x ] Analytics
+- [x ] Intelliigence  (Web, News, Social, Apps, Business)
+- [x ] Apps
 
 ## Documentation
 
@@ -48,8 +48,6 @@ Alerti is a combination of open source tools. We’re building the features of F
 **Current architecture**
 
 Alerti is a [hosted platform](https://app.alerti.com). You can sign up and start using Supabase without installing anything. We are still creating the local development experience - this is now our core focus, along with platform stability.
-
-![Architecture](https://supabase.io/assets/images/supabase-architecture-9050a7317e9ec7efb7807f5194122e48.png)
 
 - [Nextcloud](https://github.com/nextcloud) is a file sync app that lets you store all of your files online, and keep them synced with all of your devices. With over 10 years of active development Nextcloud has earned it a strong reputation for reliability, feature robustness, and performance.
 - [Apache Superset](https://github.com/apache/superset) Apache Superset is a Data Visualization and Data Exploration Platform. It's a modern, enterprise-ready business intelligence web application.
