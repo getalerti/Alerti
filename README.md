@@ -37,8 +37,6 @@ For full documentation, visit [alerti.com/docs](https://alerti.com)
 
 We are currently instealth mode. Watch "releases" of this repo to get notified of major updates.
 
-<kbd><img src="https://gitcdn.link/repo/getalerti/alerti/master/web/static/watch-repo.gif" alt="Watch this repo"/></kbd>
-
 ---
 
 ## How it works
