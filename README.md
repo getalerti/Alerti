@@ -1,5 +1,5 @@
 <p align="center">
-<img width="300" height"300" src="https://avatars.githubusercontent.com/u/85001418?s=200&v=4"/>Alerti
+<img width="300" src="https://github.com/getalerti/alerti.com/blob/main/alerti.svg"/>
 </p>
 
 ---
