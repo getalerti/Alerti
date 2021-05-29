@@ -14,9 +14,9 @@
 - [x] News
 - [x] CMS
 - [x] Data Integration/Extraction  (Web, News, Social, Apps, Business)
-- [x ] Analytics
-- [x ] Intelliigence  (Web, News, Social, Apps, Business)
-- [x ] Apps
+- [x] Analytics
+- [x] Intelliigence  (Web, News, Social, Apps, Business)
+- [x] Apps
 
 ## Documentation
 
