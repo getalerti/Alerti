@@ -8,15 +8,12 @@
 
 [Alerti](https://alerti.com) is an open source data intelligence platform. We're building the features of Alerti using enterprise-grade open source tools.
 
-- [x] Workspace
-- [x] Inbox
-- [x] Alerts
-- [x] News
-- [x] CMS
-- [x] Data Integration/Extraction  (Web, News, Social, Apps, Business)
-- [x] Analytics
-- [x] Intelliigence  (Web, News, Social, Apps, Business)
-- [x] Apps
+- [x] Workspace [Nextcloud]
+- [x] Inbox. [Chatwoot]
+- [x] Radar  [Winds]
+- [x] Publisher [Ghost]
+- [x] Data Integration.[Airbyte]
+- [x] Analytics. [Apache Superset}
 
 ## Documentation
 
